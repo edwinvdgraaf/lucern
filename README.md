@@ -4,4 +4,5 @@ Ensure you have imagemagick installed and commands
 Run `pip install -r requirements.txt`
 
 Run `python createdb.py`
+
 Run `python lucern.py --help`
